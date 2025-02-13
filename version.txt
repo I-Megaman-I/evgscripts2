@@ -1,1 +1,1 @@
-Local Pivot Align=2.1
+Local Pivot Align 2.1
