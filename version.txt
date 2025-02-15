@@ -1,2 +1,2 @@
-Local Pivot Align 2.1
+Local Pivot Align 2.0.1
 Object Selector 2.0
