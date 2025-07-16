@@ -2,4 +2,4 @@ Local Pivot Align 2.1.1
 Advanced Planar 0.9.7
 Weld Edges Advanced 0.9.5
 Sub Object Constraints Improved 1.0.7
-Select Edge By Length 0.8
+Select Edge By Length 1.2
