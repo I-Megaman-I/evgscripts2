@@ -4,3 +4,4 @@ Weld Edges Advanced 0.9.5
 Sub Object Constraints Improved 1.0.7
 Select Edge By Length 1.2
 Object Selector 2.2.1
+Select Similar Faces 1.7
