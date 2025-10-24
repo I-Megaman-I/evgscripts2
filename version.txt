@@ -5,3 +5,4 @@ Sub Object Constraints Improved 1.0.7
 Select Edge By Length 1.2
 Object Selector 2.2.1
 Select Similar Sub-Objects 1.7
+Smart Symmetry 0.6
